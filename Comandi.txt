@@ -1,0 +1,7 @@
+git clone: crea la copia locale
+git branch --all: lista della branch
+git branch <nomebranch>: crea nuova branch
+git checkout <nomebranch>: si sposta su una branch per lavorare
+git add <nomefile>: fa un commit di un file
+git commit --m 'commento' commit in locale
+git push --set-upstream origin <nomebranch>: push sul repository in github --set-upstream serve solo la prima volta
